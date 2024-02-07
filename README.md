@@ -10,3 +10,4 @@ O projeto tem como base a extração, tratamento e análise dos dados referente 
 - numpy
 - pandas
 
+![alt text](dashboard.png)
